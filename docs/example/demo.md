@@ -76,4 +76,4 @@ Then open [http://127.0.0.1:8000](http://127.0.0.1:8000) to browse the generated
 
 The example is built automatically by CI and deployed alongside this documentation. You can browse it at:
 
-**[Live Example →](../example-site/index.html)**
+**[Live Example →](../../example-site/index.html)**
