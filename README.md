@@ -1,3 +1,5 @@
+> 📋 **QA Testing Documentation:** See [README_TESTING.md](README_TESTING.md) for full test results and analysis.
+
 # mkdocs-cdoc
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
